@@ -1,0 +1,58 @@
+h1{
+    color: rgb(223, 144, 55);
+    text-align: center;
+}
+#fotos{
+    text-align: left;
+}
+#Gustos1{
+    text-align: center;
+}
+#Cancion1{  
+    text-align:right ;
+}
+#Razones{
+    text-align: right; 
+}
+#Descripcion{
+    text-align: center;
+}
+body{
+    
+    background-image: url(https://cdn.pixabay.com/photo/2021/01/28/19/01/duck-5958785_960_720.jpg);
+}
+header{
+    border-radius: 10px;
+    background-color: rgb(109, 180, 207);
+}
+div{
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: rgb(179, 175, 235);
+    text-align: center;
+    
+}
+.item li{
+    display: inline-block;
+}
+.inicio{
+    text-align: center;
+    width: 20%;
+}
+.cuenta{
+    text-align: center;
+    width: 20%;
+}
+.nosotros{
+    text-align: center;
+    width: 20%;
+}
+.video{
+    text-align: center;
+    width: 20%;
+}
+#f{
+    text-align: center;
+}
